@@ -1,10 +1,10 @@
-# 🐍 Python Alıştırmalarım (AylinÖZEN)
+#  Python Alıştırmalarım (AylinÖZEN)
 
 Bu depo, Python dilini öğrenme sürecimde yaptığım **temel programlama alıştırmalarını** ve küçük projeleri içermektedir. Amacım, öğrendiğim konuları pratik yaparak pekiştirmek ve gelişimimi belgelemektir.
 
 ---
 
-## 📂 İçindekiler / Alıştırmalar
+##  İçindekiler / Alıştırmalar
 
 Bu repoda bulunan bazı alıştırmalar:
 
@@ -15,7 +15,7 @@ Bu repoda bulunan bazı alıştırmalar:
 
 ---
 
-## 🛠️ Nasıl Çalıştırılır?
+##  Nasıl Çalıştırılır?
 
 Bu alıştırmaları çalıştırmak için yerel bilgisayarınızda Python kurulu olmalıdır.
 
@@ -30,6 +30,6 @@ Bu alıştırmaları çalıştırmak için yerel bilgisayarınızda Python kurul
 
 ---
 
-## 🙋‍♀️ İletişim
+##  İletişim
 
 * **GitHub Profilim:** [https://github.com/AylinOZEN](https://github.com/AylinOZEN)
