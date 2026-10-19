@@ -12,7 +12,7 @@ Bu depo, Python programlama dilini öğrenme, pratik yapma ve siber güvenlik al
 1. Depoyu yerel bilgisayarınıza klonlayın:
 ```bash
 git clone https://github.com/AylinOZEN/python-alistirmalar.git
-
+```
 
 ## İletişim
 GitHub Profilim: https://github.com/AylinOZEN
