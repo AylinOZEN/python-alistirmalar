@@ -15,4 +15,4 @@ git clone https://github.com/AylinOZEN/python-alistirmalar.git
 ```
 
 ## İletişim
-GitHub Profilim: https://github.com/AylinOZEN
+GitHub Profilim: https://github.com/AylinOZEN 
