@@ -4,8 +4,10 @@ Bu depo, Python programlama dilini öğrenme, pratik yapma ve siber güvenlik al
 
 ## İçindekiler / Alıştırmalar
 
+- **giris_kaydi_inceleyici.py:** Örnek giriş kayıtlarındaki kullanıcı adı, IP adresi, saat ve giriş sonucunu gösteren temel Python alıştırması. Kayıt sayısını hesaplar ve giriş sonuçlarını Türkçe gösterir.
 - **sifre_kontrol.py:** Kullanıcıdan alınan şifrenin uzunluğunu ve temel karakter/kelime kontrollerini yaparak şifre güvenliği mantığını inceleyen temel alıştırma.
 - **daire_alan_ve_cevre_hesaplama.py:** Kullanıcıdan yarıçap bilgisi alarak dairenin alanını ve çevresini hesaplayan temel Python kodu.
+  
 
 ## Nasıl Çalıştırılır?
 
